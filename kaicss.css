@@ -1,0 +1,203 @@
+# KaiOS Pure Css Framework
+# Author : Ender KUŞ
+
+body {
+  background-color: #fafafa;
+}
+
+h1 {
+  font-size:2em;
+  margin-bottom: 6px;
+}
+
+h2 {
+  font-size:1.8em;
+  margin-bottom: 6px;
+}
+
+h3 {
+  font-size:1.6em;
+  margin-bottom: 6px;
+}
+
+h4 {
+  font-size:1.4em;
+  margin-bottom: 6px;
+}
+
+h5 {
+  font-size:1.2em;
+  margin-bottom: 6px;
+}
+
+h6 {
+  font-size:1em;
+  margin-bottom: 6px;
+}
+
+p {
+  font-size: 0.7em;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+.t-j {
+  text-align: justify;
+}
+
+.t-c {
+  text-align: center;
+}
+
+a {
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#000;
+}
+
+.a-p {
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#82589F;
+}
+
+.a-f {
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#B33771;
+}
+
+.a-o{
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#F97F51;
+}
+
+.a-n{
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#182C61;
+}
+
+.a-t{
+  font-size: 0.7em;
+  text-decoration: none;
+  color:#58B19F;
+}
+
+.text-light {
+  color:#fafafa;
+}
+
+
+.header {
+    width:100%
+    height: 35px;
+
+  }
+  
+.header-purple {
+     background: #82589F;
+  }
+
+.header-fuschia {
+  background:#B33771;
+}
+
+.header-orange {
+  background:#F97F51;
+}
+
+.header-navy {
+  background:#182C61;
+}
+
+.header-turq {
+  background:#58B19F;
+}
+
+.header-title {
+  padding-top:7px;
+  padding-bottom: 7px;
+  font-size: 1.2em;
+  text-align: center;
+  color: #000;
+}
+
+.header-title-light {
+padding-top:7px;
+padding-bottom: 7px;
+font-size: 1.2em;
+text-align: center;
+color: #fafafa;
+}
+
+.btn {
+  width:100%;
+  text-align:center;
+  border:none;
+  padding-top:3px;
+  padding-bottom:3px;
+  border-radius: 10px;
+  margin-bottom:5px;
+}
+
+.btn-purple {
+  background-color:#82589F;
+  color:#fafafa;
+}
+
+.btn-fuschia {
+  background:#B33771;
+  color:#fafafa;
+}
+
+
+.btn-orange {
+  background:#F97F51;
+}
+
+.btn-navy {
+  background:#182C61;
+  color:#fafafa;
+}
+
+.btn-turq {
+  background:#58B19F;
+}
+
+form label {
+  font-size: 0.8em;
+}
+
+input[type=text] { 
+  width: 100%;
+  padding: 5px 5px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size:0.7em;
+}
+
+select { 
+  width: 100%;
+  padding: 5px 5px;
+  margin: 3px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size:0.7em;
+}
+
+textarea { 
+  width: 100%;
+  padding: 5px 5px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size:0.7em;
+}
+
